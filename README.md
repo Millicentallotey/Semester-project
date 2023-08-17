@@ -1,5 +1,3 @@
-
-Q19. 
 #include <iostream>
 #include <string>
 #include <mysql/mysql.h> // MySQL Connector/C++ header
